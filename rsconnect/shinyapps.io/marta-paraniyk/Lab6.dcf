@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: marta-paraniyk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235989
+bundleId: 1077792
+url: https://marta-paraniyk.shinyapps.io/Lab6/
+when: 1510790095.0833
+asMultiple: FALSE
+asStatic: FALSE
